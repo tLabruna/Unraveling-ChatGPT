@@ -1,0 +1,20 @@
+User: "I am looking for a particular restaurant . It is called pizza hut city centre ."
+{"food": "", "name": "Pizza Hut City Centre", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "It 's a cheap italian place in the centre at Regent Street City Centre cb21ab . The phone number is 01223323737 . Would you like more info ?"
+User: "That sounds like just the place ! Can you book me a table for 2 at 19:45 on Thursday ?"
+{"food": "Italian", "name": "Pizza Hut City Centre", "pricerange": "cheap", "area": "centre", "people": "2", "time": "19:45", "day": "Thursday"}
+
+
+System: "You 're all set . I 've got a table for 2 at 19:45 this Thursday . Your reference number is F3K2PQZZ ."
+User: "Ok sounds good . Thank you !"
+{"food": "Italian", "name": "Pizza Hut City Centre", "pricerange": "cheap", "area": "centre", "people": "2", "time": "19:45", "day": "Thursday"}
+
+
+System: "You are welcome . Is there anything else I can assist you with today ?"
+User: "That is all . Thank you for your help !"
+{"food": "Italian", "name": "Pizza Hut City Centre", "pricerange": "cheap", "area": "centre", "people": "2", "time": "19:45", "day": "Thursday"}
+
+
+System: "You 're welcome . Have a great day ."

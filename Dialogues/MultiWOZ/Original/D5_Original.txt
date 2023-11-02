@@ -1,0 +1,20 @@
+User: "I am looking for a Chinese place in the centre ."
+{"food": "Chinese", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "I have 10 restaurants matching your request . Did you have a price range you would like ?"
+User: "No , it does n't matter ."
+{"food": "Chinese", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "Would you like for it to have a certain number of stars ?"
+User: "No just book at a chinese place in the centre . I need a table for 4 at 15:00 on wednesday please ."
+{"food": "Chinese", "pricerange": "", "area": "centre", "people": "4", "time": "15:00", "day": "wednesday"}
+
+
+System: "I have you at Jinling Noodle bar then , reference is OCNH3CJJ . Anything else you need ?"
+User: "No that is it . Thank you ."
+{"food": "Chinese", "name": "Jinling Noodle bar", "pricerange": "", "area": "centre", "people": "4", "time": "15:00", "day": "wednesday"}
+
+
+System: "Have a great day !"

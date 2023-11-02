@@ -1,0 +1,25 @@
+User: "I am looking for a restaurant . The restaurant should be in the centre and should serve persian food"
+{"food": "persian", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "I am sorry . There are no person food eateries in the centre . Would you like to find a different type of food ?"
+User: "Yes , I am looking for a moderate price range ."
+{"food": "", "name": "", "pricerange": "moderate", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "I 'm sorry , we have no persian restaurants in the centre ."
+User: "What about modern european foods ?"
+{"food": "modern european", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "Riverside brasserie looks good . Would you like a reservation ?"
+User: "Yes , I want a reservation for 8 people at 16:00 on Sunday ."
+{"food": "modern european", "name": "Riverside brasserie", "pricerange": "", "area": "centre", "people": "8", "time": "16:00", "day": "Sunday"}
+
+
+System: "Sorry , the restaurant does n't have any openings for that date and time ."
+User: "ok . ill check latter"
+{"food": "modern european", "name": "Riverside brasserie", "pricerange": "", "area": "centre", "people": "8", "time": "16:00", "day": "Sunday"}
+
+
+System: "Alright . Have a good day ."

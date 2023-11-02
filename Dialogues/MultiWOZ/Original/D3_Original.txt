@@ -1,0 +1,20 @@
+User: "Is it possible to get any Greek food in the centre part of town ?"
+{"food": "Greek", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "Sorry , I 'm showing no results for Greek restaurants . Any other foods you 'd like to have ?"
+User: "What about Chinese food ?"
+{"food": "Chinese", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "Charlie Chan has some great reviews ."
+User: "book a table for 8 people at 19:00 on wednesday ."
+{"food": "Chinese", "name": "Charlie Chan", "pricerange": "", "area": "centre", "people": "8", "time": "19:00", "day": "wednesday"}
+
+
+System: "Your booking was successful . The table will be reserved for 15 minutes . Reference number is : 1J6Y65LW ."
+User: "Thanks , that 's all . Good bye ."
+{"food": "Chinese", "name": "Charlie Chan", "pricerange": "", "area": "centre", "people": "8", "time": "19:00", "day": "wednesday"}
+
+
+System: "Thank you for using our services ."

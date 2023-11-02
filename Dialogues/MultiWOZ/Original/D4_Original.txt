@@ -1,0 +1,20 @@
+User: "I 'm looking for a moderately priced resturant in the centre of town ."
+{"food": "", "name": "", "pricerange": "moderate", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "I found 21 restaurants available , do you have a type of food you would prefer ?"
+User: "I would like lebanese food ."
+{"food": "Lebanese", "name": "", "pricerange": "moderate", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: "How does Ali Baba ? I recommend it . Would you like for me to book a table ?"
+User: "Yes , I want to book a table for 3 people at 20:00 on thursday ."
+{"food": "Lebanese", "name": "Ali Baba", "pricerange": "moderate", "area": "centre", "people": "3", "time": "20:00", "day": "Thursday"}
+
+
+System: "Great , I have booked your table for ali baba thursday at 20:00 for 3 . Your reference number is 5LY9WSF1 . May I help with anything else ?"
+User: "No , I think that 's all I need . Thank you !"
+{"food": "Lebanese", "name": "Ali Baba", "pricerange": "moderate", "area": "centre", "people": "3", "time": "20:00", "day": "Thursday"}
+
+
+System: "Thank you for using the Cambridge TownInfo service , and have a wonderful day !"
