@@ -7,3 +7,17 @@ The folder _Dialogues_ contains both the original dialogues from the linguistic 
 ## Amazon Mechanical Turk Evaluation
 
 The folder _MTurk_Evaluations_ contains the results of the evaluations provided by AMT workers, where they were asked to provide different scores related to the quality of the dialogue. Both the original, and the ChatGPT dialogues were evaluated.
+
+## Citation
+
+Please cite our work if you find it useful
+
+```
+@article{labruna2023unraveling,
+  title={Unraveling ChatGPT: A Critical Analysis of AI-Generated Goal-Oriented Dialogues and Annotations},
+  author={Labruna, Tiziano and Brenna, Sofia and Zaninello, Andrea and Magnini, Bernardo},
+  journal={arXiv preprint arXiv:2305.14556},
+  year={2023}
+  url={https://arxiv.org/abs/2305.14556}
+}
+```
