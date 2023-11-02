@@ -1,0 +1,20 @@
+User: Hi, I'm looking for a restaurant in the centre that serves Lebanese food and is in the moderate price range.
+{"food": "Lebanese", "name": "", "pricerange": "moderate", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: We have one option for you, Ali Baba. They serve Lebanese food, are located in the centre, and are in the moderate price range. Would you like to make a reservation?
+User: Yes, please. Can I book a table for 3 people at 20:00 on Thursday?
+{"food": "Lebanese", "name": "Ali Baba", "pricerange": "moderate", "area": "centre", "people": "3", "time": "20:00", "day": "Thursday"}
+
+
+System: I'm sorry, we don't have any tables available for 3 people at 20:00 on Thursday at Ali Baba. Would you like to try a different day or time?
+User: How about 19:00 on Thursday?
+{"food": "Lebanese", "name": "Ali Baba", "pricerange": "moderate", "area": "centre", "people": "3", "time": "19:00", "day": "Thursday"}
+
+
+System: We have availability for 3 people at Ali Baba at 19:00 on Thursday. Would you like to proceed with the reservation?
+User: Yes, please.
+{"food": "Lebanese", "name": "Ali Baba", "pricerange": "moderate", "area": "centre", "people": "3", "time": "19:00", "day": "Thursday"}
+
+
+System: Your reservation has been made. Your reservation number is 4JZ1D6T9. Thank you for using Cambridge InfoTown!

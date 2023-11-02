@@ -1,0 +1,20 @@
+User: Hi, I'm looking for a restaurant called Pizza Hut City Centre.
+{"food": "", "name": "Pizza Hut City Centre", "pricerange": "", "area": "", "people": "", "time": "", "day": ""}
+
+
+System: Great, we have a restaurant called Pizza Hut City Centre in the centre area. It serves Italian cuisine and is in the cheap price range. Would you like me to check availability for you?
+User: Yes, please. I would like to make a reservation for 2 people at 19:45 on Thursday.
+{"food": "Italian", "name": "Pizza Hut City Centre", "pricerange": "cheap", "area": "centre", "people": "2", "time": "19:45", "day": "Thursday"}
+
+
+System: I am sorry but all tables for 2 people are reserved for that day and time. Would you like me to check availability for another time?
+User: Yes, please. How about 20:00 on Thursday?
+{"food": "Italian", "name": "Pizza Hut City Centre", "pricerange": "cheap", "area": "centre", "people": "2", "time": "20:00", "day": "Thursday"}
+
+
+System: I have availability for 2 people at 20:00 on Thursday. Would you like me to proceed with the reservation?
+User: Yes, please.
+{"food": "Italian", "name": "Pizza Hut City Centre", "pricerange": "cheap", "area": "centre", "people": "2", "time": "20:00", "day": "Thursday"}
+
+
+System: Your reservation for 2 people at Pizza Hut City Centre, located at Regent Street City Centre, for 20:00 on Thursday, has been confirmed. Your reservation reference number is 4J8LSW12. Enjoy your meal!

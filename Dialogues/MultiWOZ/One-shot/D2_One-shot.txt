@@ -1,0 +1,20 @@
+User: Hi, I'm looking for a restaurant in the centre that serves Persian food and is in the moderate price range.
+{"food": "Persian", "name": "", "pricerange": "moderate", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: I'm sorry, we do not have any Persian restaurants in the moderate price range in the centre. However, we do have a restaurant that serves modern European food called Riverside Brasserie which is in the moderate price range. Would you like me to make a reservation for you?
+User: No thank you. How about for Sunday at 16:00 for 8 people?
+{"food": "Persian", "name": "Riverside Brasserie", "pricerange": "moderate", "area": "centre", "people": "8", "time": "16:00", "day": "Sunday"}
+
+
+System: I'm sorry, but Riverside Brasserie does not have availability for 8 people on Sunday at 16:00. Would you like to try another day or time?
+User: How about Thursday at the same time and for the same number of people?
+{"food": "", "name": "Riverside Brasserie", "pricerange": "moderate", "area": "centre", "people": "8", "time": "16:00", "day": "Thursday"}
+
+
+System: Yes, we have availability for Thursday at 16:00 for 8 people. Would you like me to proceed with the reservation?
+User: Yes please.
+{"food": "", "name": "Riverside Brasserie", "pricerange": "moderate", "area": "centre", "people": "8", "time": "16:00", "day": "Thursday"}
+
+
+System: Your reservation at Riverside Brasserie for 8 people on Thursday at 16:00 has been confirmed. Your reservation reference number is 2D6W8QF5. Thank you for using Cambridge InfoTown. Goodbye!

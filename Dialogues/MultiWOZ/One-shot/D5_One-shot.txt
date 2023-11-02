@@ -1,0 +1,20 @@
+User: Hi, I'm looking for a place to dine that serves Chinese food and is located in the city centre.
+{"food": "Chinese", "name": "", "pricerange": "", "area": "city centre", "people": "", "time": "", "day": ""}
+
+
+System: Sure, we have two options for you: Charlie Chan and Jinling Noodle Bar. Which one would you prefer?
+User: I'll go with Jinling Noodle Bar. Can I make a reservation for 4 people at 15:00 on Wednesday?
+{"food": "Chinese", "name": "Jinling Noodle Bar", "pricerange": "", "area": "city centre", "people": "4", "time": "15:00", "day": "Wednesday"}
+
+
+System: I'm sorry, but we don't have any tables available at that time. Would you like to try a different time or date?
+User: How about 16:00 on Wednesday?
+{"food": "Chinese", "name": "Jinling Noodle Bar", "pricerange": "", "area": "city centre", "people": "4", "time": "16:00", "day": "Wednesday"}
+
+
+System: Yes, we have a table available for 4 people at 16:00 on Wednesday. Shall I make the reservation for you?
+User: Yes, please go ahead.
+{"food": "Chinese", "name": "Jinling Noodle Bar", "pricerange": "", "area": "city centre", "people": "4", "time": "16:00", "day": "Wednesday"}
+
+
+System: Your reservation has been made. Your reservation number is 2K7JN1T9. Thank you for choosing Cambridge InfoTown. Goodbye!

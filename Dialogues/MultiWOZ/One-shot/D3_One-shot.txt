@@ -1,0 +1,31 @@
+User: Hi, I'm looking for a restaurant that serves Greek food and is located in the centre.
+{"food": "Greek", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: I'm sorry, we don't have any restaurants that serve Greek food in the centre. How about a restaurant that serves Chinese food?
+User: Alright, what Chinese restaurant do you recommend?
+{"food": "", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: We have a few options for you. Would you like to hear about them?
+User: Yes, please.
+{"food": "", "name": "", "pricerange": "", "area": "centre", "people": "", "time": "", "day": ""}
+
+
+System: We have Charlie Chan and Jinling Noodle Bar. Charlie Chan is a cheap Chinese restaurant located on Regent Street City Centre, and Jinling Noodle Bar is a moderate Chinese restaurant located on Peas Hill City Centre. Which one do you prefer?
+User: I'll go for Charlie Chan. Can I make a reservation for 8 people at 19:00 on Wednesday?
+{"food": "Chinese", "name": "Charlie Chan", "pricerange": "cheap", "area": "Regent Street City Centre", "people": "8", "time": "19:00", "day": "Wednesday"}
+
+
+System: Let me check if we have availability for 8 people at 19:00 on Wednesday at Charlie Chan.
+System: I'm sorry, but Charlie Chan is fully booked at that time on Wednesday. Would you like me to check for another time or day?
+User: Yes, please check for availability on Thursday at 19:00.
+{"food": "Chinese", "name": "Charlie Chan", "pricerange": "cheap", "area": "Regent Street City Centre", "people": "8", "time": "19:00", "day": "Thursday"}
+
+
+System: We have availability for 8 people at 19:00 on Thursday at Charlie Chan. Would you like to proceed with the reservation?
+User: Yes, please make the reservation.
+{"food": "Chinese", "name": "Charlie Chan", "pricerange": "cheap", "area": "Regent Street City Centre", "people": "8", "time": "19:00", "day": "Thursday"}
+
+
+System: Your reservation has been made. Your reference number is 9FA0NSQ2. Thank you for using Cambridge InfoTown!
