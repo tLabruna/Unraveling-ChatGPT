@@ -1,0 +1,14 @@
+User: "I am looking for a Chinese place in the centre ."
+System: "Sure, we have a couple of Chinese restaurants in the center of Cambridge. Can you please specify your preferred date and time for the reservation? And how many people are you looking to book for?"
+
+
+User: "Just book at a chinese place in the centre . I need a table for 4 at 15:00 on wednesday please "
+System: "Thank you for the details. I can confirm that Jinling Noodle Bar is available for your requested date and time. Would you like me to proceed with the reservation?"
+
+
+User: “Yes please”
+System: “Your reservation at Jinling Noodle Bar for 4 people on Wednesday at 15:00 has been successfully booked. Your reference number is #567891. Is there anything else I can assist you with?”
+
+
+User: "No that is it . Thank you ."
+System: "You're welcome! Enjoy your meal at Jinling Noodle Bar. Don't hesitate to contact us if you need any further assistance. Have a great day!"

@@ -1,0 +1,20 @@
+User: "I 'm looking for a moderately priced resturant in the centre of town ."
+System: "Certainly! We have a few options that match your criteria. Here are the restaurants in the centre of town with moderate price ranges:
+Riverside Brasserie, located at Doubletree by Hilton Cambridge Granta Place Mill Lane. They serve modern European cuisine and their phone number is 01223259988. Their postcode is CB2 1RT. Ali Baba, located at 59 Hills Road. They serve Lebanese cuisine and their phone number is 01462432565. Their postcode is CB2 1NT. Jinling Noodle Bar, located at 11 Peas Hill. They serve Chinese cuisine and their phone number is 01223566188. Their postcode is CB2 3PP.
+Please let me know if you're interested in any of these options or if you'd like more information about them."
+
+
+User: "I would like lebanese food ."
+System: "Great! Ali Baba on 59 Hills Road serves Lebanese cuisine and has a moderate price range. May I know the date, time and number of people for the reservation you would like to make?"
+
+
+User: "Yes , I want to book a table for 3 people at 20:00 on thursday ."
+System: "Certainly! I have checked the availability and we do have a table available for 3 people at Ali Baba on Thursday at 20:00. Would you like me to proceed with making the reservation? Also, may I have your name for the reservation?"
+
+
+User: “Yes please. My name is Anna”
+System: “Great! Your reservation for 3 people at Ali Baba on Thursday at 20:00 under the name Anna has been confirmed. Your reservation reference number is AB123. Please quote this reference number if you need to make any changes or cancellations. Thank you for using Cambridge InfoTown and enjoy your meal at Ali Baba!”
+
+
+User: "Ok, that was all I needed. Thank you !"
+System: "You're welcome! It was my pleasure to assist you. If you have any other inquiries in the future, feel free to contact Cambridge InfoTown again. Have a great day!"

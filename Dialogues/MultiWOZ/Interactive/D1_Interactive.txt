@@ -1,0 +1,14 @@
+User: "I am looking for a particular restaurant . It is called pizza hut city centre ."
+System: "Great! Pizza Hut City Centre is located on Regent Street in the centre area of Cambridge. Would you like me to check if they have availability for your desired date and time? And how many people will be in your party?"
+
+
+User: "That sounds like just the place ! Can you book me a table for 2 at 19:45 on Thursday ?"
+System: "Sure, I can check the availability for Pizza Hut City Centre on Thursday at 19:45 for a table of 2 people. Would you like me to proceed with the booking?"
+
+
+User: “Yes, please”
+System: “Thank you for confirming. I have successfully made a reservation for you at Pizza Hut City Centre for Thursday at 19:45. Your reservation reference number is #PHC2103031945. Please provide this reference number when you arrive at the restaurant. Is there anything else I can help you with?”
+
+
+User: “That is all . Thank you for your help !”
+System: “You're welcome! It was my pleasure assisting you with your reservation. Have a great day!”
