@@ -1,0 +1,19 @@
+<b>A:</b>Hi Lucy! How are you today?<br>
+<b>B:</b>Hi! I'm doing well, thank you. How about you?<br>
+<b>A:</b>I'm great, thanks for asking. So, can you tell me a bit about your prior knowledge of machine learning?<br>
+<b>B:</b>Well, I've heard the term before, but I don't really know what it means. Can you explain it to me?<br>
+<b>A:</b>Sure! Machine learning is a type of artificial intelligence that enables machines to learn from data and improve their performance over time without being explicitly programmed. It's like teaching a computer to learn and make decisions on its own.<br>
+<b>B:</b>That's really interesting! What about algorithms? I've heard that term before too.<br>
+<b>A:</b>That's a great question. Algorithms are a set of rules or instructions that a machine follows to solve a problem or perform a task. They're like a recipe for the computer to follow.<br>
+<b>B:</b>Oh, I see! So, what can machines understand?<br>
+<b>A:</b>Machines can understand patterns in data and use those patterns to make predictions or decisions. For example, Spotify's recommendation system uses machine learning to understand what kind of music you like based on your listening history.<br>
+<b>B:</b>That's really cool! How does the recommendation system work?<br>
+<b>A:</b>Well, Spotify's recommendation system uses an algorithm called collaborative filtering. It looks at the listening habits of users who have similar tastes to yours and recommends songs that they like but that you haven't heard yet.<br>
+<b>B:</b>Wow, that's fascinating! Do you think intuition is important when working with algorithms?<br>
+<b>A:</b>Absolutely! Intuition is a big part of working with algorithms because it helps you understand why certain things are happening and what might be causing them. It's important to have a good understanding of the data you're working with and to be able to think creatively to come up with new solutions.<br>
+<b>B:</b>That makes sense. What are some things that humans can do that machines will never be able to do?<br>
+<b>A:</b>That's a great question. While machines are great at processing large amounts of data and making predictions based on patterns, they still struggle with things that come naturally to humans, such as creativity and empathy. Machines don't have emotions or experiences, so they can't fully understand the complexities of human behavior.<br>
+<b>B:</b>That's really interesting! By the way, my favorite artist is Billie Eilish. How might Spotify's recommendation system work for her?<br>
+<b>A:</b>Well, if you listen to a lot of Billie Eilish, then Spotify's recommendation system will start to recommend other artists that are similar to her, like Lorde or Halsey. It might also recommend songs that Billie Eilish has collaborated on or playlists that feature her music.<br>
+<b>B:</b>That's so cool! Thank you for explaining all of this to me.<br>
+<b>A:</b>Of course! It was great talking to you, Lucy. If you have any more questions, feel free to ask me anytime.
