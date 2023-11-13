@@ -1,0 +1,12 @@
+1. System: Buongiorno! Benvenuto al Navigator. Come posso aiutarti a trovare un lavoro adatto alle tue esigenze?
+2. User:  Ciao :)  Sto cercando lavoro e vorrei sapere se magari hai qualche offerta da propormi
+3. System: Certo, posso aiutarti a trovare un'offerta di lavoro adatta alle tue esigenze. Potresti gentilmente fornirmi alcune informazioni sul tipo di lavoro che stai cercando e sulle tue competenze? In questo modo, potrò cercare nel nostro database per trovare le offerte di lavoro più adatte a te.
+4. User: Mi piacerebbe lavorare nel mondo della pubblicità e della comunicazione
+5. System: Ottimo! Nel nostro database abbiamo un'offerta di lavoro per un tirocinio post-laurea in Web Marketing presso la società PUBBLIDEA SRL, con sede a Pisa. La descrizione della mansione richiede al candidato di occuparsi del sito web aziendale e dei canali social aziendali (Facebook, Linkedin, Instagram, YouTube) collaborando con la società esterna che realizzerà il progetto. Inoltre, il candidato si attiverà per pubblicizzare l'azienda nel web al fine di attrarre nuova clientela, gestendola in prima persona anche telefonicamente. Questa offerta di lavoro sembra interessante per te?
+6. User: Sembra interessante. Si tratta dunque di un tirocinio retribuito?
+7. System: Sì, si tratta di un tirocinio post-laurea retribuito. Il rimborso spese è previsto e la durata del tirocinio sarà stabilita in base alle esigenze della società e alle tue disponibilità. Se sei interessato a questa offerta di lavoro, ti posso fornire l'indirizzo e-mail dell'azienda per inviare la tua candidatura. Ti interessa?
+8. User: Va bene :)  Sì, sono interessata
+9. System: Perfetto! L'indirizzo e-mail dell'azienda PUBBLIDEA SRL è info@azienda.com. Ti consiglio di inviare il tuo curriculum vitae e una lettera motivazionale per presentare la tua candidatura. In bocca al lupo per la tua candidatura e spero che tu possa ottenere questo lavoro! Se hai bisogno di ulteriori informazioni o se posso esserti d'aiuto in qualche altro modo, non esitare a chiedere.
+10. User: Sei stata molto d'aiuto, grazie mille! Li contatterò al più presto
+   Buona giornata e buon lavoro!  :)
+11. System: Di nulla, è stato un piacere poterti aiutare! Buona fortuna con la tua candidatura e se hai bisogno di ulteriore assistenza in futuro, non esitare a contattare di nuovo il Navigator. Ti auguro una buona giornata e buona fortuna nella tua ricerca di lavoro!

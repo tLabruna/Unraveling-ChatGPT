@@ -1,0 +1,10 @@
+    {}
+    {"job_description": "tecnico di impianti elettrici", "skills": "pacchetto Office", "contract": "tempo indeterminato"}
+    {}
+    {}
+    {}
+    {"job_description": "tecnico di impianti elettrici", "skills": "pacchetto Office", "contract": "tempo indeterminato"}
+    {"job_description": "tecnico di impianti elettrici", "skills": "pacchetto Office", "contract": "tempo indeterminato"}
+    {"job_description": "tecnico di impianti elettrici", "skills": "pacchetto Office", "contract": "tempo indeterminato", "location": "Pistoia"}
+    {"job_description": "tecnico di impianti elettrici", "skills": "pacchetto Office", "contract": "tempo indeterminato", "location": "Pistoia"}
+    {"job_description": "tecnico di impianti elettrici", "skills": "pacchetto Office", "contract": "tempo indeterminato", "location": "Pistoia"}

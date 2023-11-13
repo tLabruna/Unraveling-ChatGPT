@@ -1,0 +1,23 @@
+1. System: Buongiorno! Sono il sistema Navigator e sono qui per aiutarti nella ricerca di offerte di lavoro. Qual è il tuo nome e quali sono le tue competenze?
+2. User: Buongiorno, sono Silvia e cerco un lavoro a tempo indeterminato. Ho terminato un corso professionale come tecnico di impianti elettrici e me la cavo bene con tutto quello che riguarda il pacchetto Office.
+3. System: Ciao Silvia, grazie per le informazioni fornite. Al momento non ho offerte di lavoro disponibili che richiedano competenze nel settore degli impianti elettrici. Ti consiglio di visitare il sito delle agenzie per il lavoro o di contattare direttamente le aziende del settore per cercare opportunità che possano essere adatte a te. Posso aiutarti in altro modo?
+4. User: Hai un annuncio che possa interessarmi?
+5. System: Certo, posso offrirti alcune opzioni basate sulle tue competenze con il pacchetto Office. Ti interessa maggiormente lavorare nel settore dell'informatica, del disegno o del marketing?
+6. User: Ho già lavorato nel settore degli impianti elettrici
+7. System: Capisco, ma al momento non ho offerte di lavoro disponibili in quel settore. Tuttavia, se sei interessata, posso offrirti alcune opportunità in altri settori, come informatica, disegno o marketing. In alternativa, posso suggerirti di visitare il sito delle agenzie per il lavoro o di contattare direttamente le aziende del settore degli impianti elettrici. Ti va di vedere alcune opportunità in questi altri settori?
+8. User: Va bene, dimmi pure
+9. System: Ecco alcune opportunità che potrebbero essere adatte alle tue competenze:
+      Offerta di lavoro come Software Engineer presso l'azienda Jobtome. Il lavoro è a tempo indeterminato e si richiede una forte passione per il coding e il mondo web, conoscenze di PHP e Framework MVC (opzionale Symfony), MySQL, un po' di bash Linux, javascript con il jQuery. Opzionale conoscenza di HTML e CSS.
+      Offerta di lavoro come Disegnatore/trice - Progettista meccanico presso lo Studio Tecnico di Ingegneria Ing. Silvestri. Il lavoro è a tempo determinato e si richiede esperienza in disegno-progetto meccanico di prodotti in acciaio inox e gestione di distinte base.
+      Offerta di lavoro come Assistente Capocommessa presso CMSA Società Cooperativa. Il lavoro è un tirocinio/Stage post-laurea e prevede attività di studio di progetti esecutivi e documentazione a base di una gara d'appalto.
+      Offerta di lavoro come Web Marketing presso PUBBLIDEA SRL. Il lavoro è un tirocinio/Stage post-laurea e si richiede di collaborare con la società esterna che realizzerà il progetto del sito web aziendale e dei canali social aziendali (Facebook, Linkedin, Instagram, YouTube).
+      Offerta di lavoro come Allievo Direttore presso Compass Group Italia S.p.A. Il lavoro è un tirocinio/Stage post-laurea e prevede la pianificazione del budget e del conto economico, la compilazione degli ordini e delle derrate alimentari e la gestione della sicurezza sul lavoro e quella alimentare.
+  Hai qualche preferenza su quale lavoro ti piacerebbe di più?
+10. User: Il terzo mi incuriosisce. Posso provare a contattarli?
+11. System: Certo, posso fornirti l'indirizzo email dell'azienda. L'offerta di lavoro è per un tirocinio/Stage post-laurea come Assistente Capocommessa presso CMSA Società Cooperativa e la posizione è a Pistoia. L'indirizzo email dell'azienda è info@azienda.com. Ti consiglio di inviare il tuo curriculum vitae e una lettera di presentazione per esprimere il tuo interesse per la posizione. Auguro a te buona fortuna nella tua ricerca di lavoro! Se hai bisogno di ulteriori informazioni, non esitare a contattarmi di nuovo.
+12. User: Posso sapere quanti posti sono disponibili?
+13. System: Mi dispiace, ma non ho informazioni sulla quantità di posti disponibili per l'offerta di lavoro di Assistente Capocommessa presso CMSA Società Cooperativa. Ti consiglio di contattare direttamente l'azienda all'indirizzo email info@azienda.com per ottenere maggiori informazioni in merito.
+14. User: Va bene. Li contatto subito.
+15. System: Perfetto, sono contento di essere stato di aiuto. In bocca al lupo per il tuo contatto con l'azienda e per la tua ricerca di lavoro! Se hai bisogno di altre informazioni, non esitare a contattarmi di nuovo. Buona giornata!
+16. User: Grazie mille, buona giornata!
+17. System: Prego, è stato un piacere assisterti. Buona giornata anche a te!

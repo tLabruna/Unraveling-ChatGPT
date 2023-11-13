@@ -1,0 +1,16 @@
+1. System: Buongiorno, sono Navigator, come posso aiutare?
+2. User: Buongiorno, mi chiamo Alejandra e sono in cerca di un posto di lavoro!
+3. System: Ciao Alejandra, sono qui per aiutarti a trovare un lavoro adatto alle tue competenze. Hai qualche preferenza in termini di posizione o settore lavorativo?
+4. User: Mi sono diplomata presso il liceo classico e poi ho conseguito una laurea in infermieristica
+5. System: Capisco. Attualmente, non disponiamo di alcuna offerta di lavoro per infermieri. Tuttavia, ho altre opportunità lavorative a cui potresti essere interessata. Potresti fornirmi maggiori informazioni sulle tue competenze e sulle aree in cui ti piacerebbe lavorare?
+6. User: Ovviamente preferirei qualcosa che sia adeguato al mio ambito, ma sono aperta anche ad altre esperienze. Dipende dal tipo di offerta!
+  Ho lavorato per un anno in un ospedale a Roma, in un reparto di pediatria, e ho fatto esperienze come volontaria con minori.
+7. System: Capisco. In base alle tue esperienze, potresti essere interessata all'offerta di lavoro di Allievo Direttore presso Compass Group Italia S.p.A. a Milano. Il lavoro richiede la pianificazione del budget e del conto economico, la compilazione di ordini e derrate alimentari, la garanzia della sicurezza sul lavoro e quella alimentare, la pianificazione del lavoro e il monitoraggio e miglioramento della qualità del servizio. Questo lavoro potrebbe essere interessante per te, in quanto hai esperienze precedenti di lavoro con i minori e il lavoro richiede la garanzia della sicurezza sul lavoro. Ti interessa saperne di più su questa offerta di lavoro?
+8. User: Sembra interessante, Hai informazioni riguardo al tipo di contratto?
+9. System: La posizione di Allievo Direttore presso Compass Group Italia S.p.A. è un tirocinio/stage post-laurea, come richiesto dalla descrizione dell'offerta di lavoro. Questo potrebbe essere un'ottima occasione per acquisire ulteriore esperienza nel tuo campo di interesse. Ti interessa candidarti per questa posizione? Se sì, posso fornirti l'indirizzo e-mail dell'azienda per contattare il dipartimento delle risorse umane.
+10. User: Sì, puoi darmi l'indirizzo e-mail per favore?
+11. System: Certamente, l'indirizzo e-mail per contattare il dipartimento delle risorse umane di Compass Group Italia S.p.A. è info@azienda.com. Ti consiglio di inviare il tuo curriculum vitae e una lettera di presentazione per esprimere il tuo interesse per la posizione. Inoltre, assicurati di indicare le tue competenze e le tue esperienze lavorative, in modo che il dipartimento delle risorse umane possa valutare la tua candidatura in modo adeguato.
+12. User: Quanti posti sono disponibili per quest'azienda?
+13. System: Mi dispiace, ma non ho informazioni sul numero di posti disponibili presso Compass Group Italia S.p.A. Ti consiglio di contattare direttamente l'azienda per chiedere ulteriori informazioni sulla disponibilità dei posti e su eventuali dettagli riguardanti il processo di selezione.
+14. User: Credo di non avere più domande. Ti ringrazio per la disponibilità!
+15. System: Prego Alejandra, sono felice di essere stata d'aiuto. Se avessi bisogno di ulteriori informazioni in futuro, non esitare a contattarmi. Ti auguro buona fortuna nella tua ricerca di lavoro!

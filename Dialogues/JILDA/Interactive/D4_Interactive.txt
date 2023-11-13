@@ -1,0 +1,20 @@
+1. System: Buongiorno, sono il sistema Navigator. Come posso aiutarti a trovare una posizione lavorativa adatta alle tue competenze?
+2. User: Ciao Navigator, sono Celeste, ho 24 anni e sto cercando un lavoro part-time!
+3. System: Ciao Celeste, sono felice di aiutarti a trovare un lavoro part-time adatto alle tue esigenze. In quale settore vorresti lavorare?
+4. User: Mi sto laureando in Discipline dello spettacolo e comunicazione a Pisa, però mi piace anche recitare e fare sport.
+   Mi piacerebbe lavorare a contatto con il pubblico.
+5. System: Capisco. Al momento non disponiamo di offerte di lavoro part-time nella tua zona di residenza. Tuttavia, ho una posizione disponibile come assistente capocommessa a Pistoia. Ti interessa saperne di più su questa posizione?
+6. User: Preferirei vicino casa, così posso concludere il mio percorso di studi senza troppe distrazioni, grazie.
+7. System: Capisco, Cerco un'altra opportunità di lavoro che possa interessarti. Ti va di fornirmi maggiori informazioni sulle tue competenze e le tue esperienze lavorative passate? Ciò mi aiuterà a identificare offerte di lavoro che possono essere adatte a te.
+8. User: lavoro come cameriera nel periodo estivo, quindi sono in grado di gestire situazioni di tensione, ma so anche mettere a proprio agio le persone.
+9. System: Grazie per le informazioni. Sulla base delle tue competenze e della tua esperienza lavorativa, ho trovato una posizione come Allievo Direttore a Milano. Sei interessata a saperne di più su questa opportunità?
+10. User: Preferirei vicino casa, così posso concludere il mio percorso di studi senza troppe distrazioni, grazie.
+11. System: Capisco la tua esigenza. Purtroppo al momento non ci sono posizioni disponibili nelle tue vicinanze che corrispondono alle tue competenze e interessi. Ti consiglio di tenere d'occhio le offerte di lavoro sul nostro sito web o di inviare la tua candidatura spontanea alle aziende che ti interessano. Ti auguro buona fortuna nella ricerca di lavoro!
+12. User: Non c'è nessuna proposta di lavoro presso Pisa?
+13. System: Sì, ho trovato un'opzione per te. C'è una posizione disponibile come Web Marketer presso l'azienda Pubbliidea SRL a Pisa. Questa posizione richiede una laurea con esperienza o un neolaureato con passione per il web marketing. La descrizione del lavoro prevede la gestione del sito web aziendale e dei canali social dell'azienda. Inoltre, ti verrà chiesto di pubblicizzare l'azienda sul web e di attrarre nuova clientela. Questa posizione sembra corrispondere ai tuoi interessi. Ti interessa saperne di più?
+14. User: Per quanto riguarda il luogo sarebbe perfetto! Puoi dirmi di cosa si occupano? E anche impegno lavorativo e paga mensile, grazie.
+15. System: Pubbliidea SRL è una società di pubblicità e relazioni pubbliche con sede a Pisa. La posizione di Web Marketer che ti ho proposto richiede un impegno lavorativo full-time e un salario mensile competitivo. Tuttavia, il salario esatto verrà discusso con l'azienda in seguito. Ti consiglio di inviare la tua candidatura e di chiedere maggiori dettagli sulla posizione direttamente all'azienda. Ti posso fornire l'indirizzo e-mail dell'azienda per inviare la tua candidatura, se sei interessata.
+16. User: Mi piace davvero tanto, è proprio quello che fa per me! Mi sembra un'ottima idea, grazie.
+17. System: Sono felice di aver trovato una posizione che ti piace! Di seguito ti fornisco l'indirizzo e-mail dell'azienda Pubbliidea SRL: info@azienda.com. Ti consiglio di inviare la tua candidatura a questo indirizzo e di fornire tutte le informazioni richieste dall'azienda. In bocca al lupo per la tua candidatura! Se hai altre domande o dubbi, non esitare a chiedere.
+18. User: No, grazie mille. Sei stata davvero gentile e professionale, buona giornata e buon lavoro!
+19. System: Grazie Celeste, è stato un piacere assisterti nella ricerca di lavoro. Ti auguro buona fortuna per la tua candidatura presso Pubbliidea SRL. Se hai bisogno di ulteriore assistenza in futuro, non esitare a contattarmi. Buona giornata anche a te e buona fortuna per il tuo futuro!

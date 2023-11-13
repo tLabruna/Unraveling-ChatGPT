@@ -1,0 +1,4 @@
+    {"job_description": "ricercatore"}
+    {"job_description": "ricercatore", "degree": "dottorato in Ingegneria Robotica", "skills": "specializzata in informatica e robotica"}
+    {"job_description": "ricercatore", "degree": "dottorato in Ingegneria Robotica", "skills": "specializzata in informatica e robotica"}
+    {"job_description": "ricercatore", "degree": "dottorato in Ingegneria Robotica", "skills": "specializzata in informatica e robotica"}

@@ -1,0 +1,10 @@
+    {}
+    {"job_description": "lavoro", "company_name": null}
+    {"job_description": "pubblicità, comunicazione", "contract": null}
+    {"job_description": "pubblicità, comunicazione", "contract": "tempo determinato/indeterminato"}
+    {"job_description": "pubblicità, comunicazione", "contract": "tempo determinato/indeterminato", "location": "estero"}
+    {"job_description": "pubblicità, comunicazione", "contract": "tempo determinato/indeterminato", "degree": "Laurea in Filosofia"}
+    {"job_description": "pubblicità, comunicazione", "contract": "tempo determinato/indeterminato", "degree": "Laurea in Filosofia", "past_experience": "tirocinio in agenzia pubblicitaria"}
+    {"job_description": "pubblicità, comunicazione", "contract": "tempo determinato/indeterminato", "degree": "Laurea in Filosofia", "past_experience": "tirocinio in agenzia pubblicitaria"}
+    {"job_description": "pubblicità, comunicazione", "contract": "tempo determinato/indeterminato", "degree": "Laurea in Filosofia", "past_experience": "tirocinio in agenzia pubblicitaria", "company_name": "PUBBLIDEA SRL", "location": "Pisa", "job_description": "tirocinio nel web marketing", "contract": "retribuito"}
+    {"job_description": "pubblicità, comunicazione", "contract": "tempo determinato/indeterminato", "degree": "Laurea in Filosofia", "past_experience": "tirocinio in agenzia pubblicitaria", "company_name": "PUBBLIDEA SRL", "location": "Pisa", "job_description": "tirocinio nel web marketing", "contract": "retribuito"}

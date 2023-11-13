@@ -1,0 +1,6 @@
+    {"job_description": "tecnico in impianti elettrici", "degree": "diploma", "contract": "tempo indeterminato", "age": "25 anni", "area": "impianti elettrici"}
+    {"job_description": "tecnico in impianti elettrici", "degree": "diploma", "contract": "tempo indeterminato", "age": "25 anni", "area": "impianti elettrici", "skills": "conoscenza del pacchetto Office, lavoro bene in team"}
+    {"job_description": "tecnico in impianti elettrici", "degree": "diploma", "contract": "tempo indeterminato", "age": "25 anni", "area": "impianti elettrici", "skills": "conoscenza del pacchetto Office, lavoro bene in team"}
+    {"job_description": "tecnico in impianti elettrici", "degree": "diploma", "contract": "tempo indeterminato", "age": "25 anni", "area": "impianti elettrici", "skills": "conoscenza del pacchetto Office, lavoro bene in team"}
+    {"job_description": "tecnico in impianti elettrici", "degree": "diploma", "contract": "tempo indeterminato", "age": "25 anni", "area": "impianti elettrici", "skills": "conoscenza del pacchetto Office, lavoro bene in team"}
+    {"job_description": "tecnico in impianti elettrici", "degree": "diploma", "contract": "tempo indeterminato", "age": "25 anni", "area": "impianti elettrici", "skills": "conoscenza del pacchetto Office, lavoro bene in team"}

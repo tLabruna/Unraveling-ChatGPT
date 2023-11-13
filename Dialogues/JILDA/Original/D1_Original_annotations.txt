@@ -1,0 +1,12 @@
+    {}
+    {"job_description": "tempo indeterminato"}
+    {"job_description": "tempo indeterminato", "area": null}
+    {"job_description": "tempo indeterminato", "area": "tecnico di impianti elettrici, pacchetto Office"}
+    {"job_description": "tempo indeterminato", "area": "tecnico di impianti elettrici, pacchetto Office", "degree": "corso professionale"}
+    {"job_description": "tempo indeterminato", "area": "tecnico di impianti elettrici, pacchetto Office", "degree": "corso professionale", "language": "estero"}
+    {"job_description": "tempo indeterminato", "area": "tecnico di impianti elettrici, pacchetto Office", "degree": "corso professionale", "language": "estero"}
+    {"job_description": "tempo indeterminato", "area": "Excel", "degree": "corso professionale", "language": "estero"}
+    {"job_description": "tempo indeterminato", "area": "Excel", "degree": "corso professionale", "language": "estero"}
+    {"job_description": "tempo indeterminato", "area": "Excel", "degree": "corso professionale", "language": "estero"}
+    {"job_description": "tempo indeterminato", "area": "Excel", "degree": "corso professionale", "language": "estero"}
+    {"job_description": "tempo indeterminato", "area": "Excel", "degree": "corso professionale", "language": "estero"}

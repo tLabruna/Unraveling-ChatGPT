@@ -1,0 +1,10 @@
+    {}
+    {"age": "24", "job_description": "lavoro part-time"}
+    {"age": "24", "job_description": "lavoro part-time", "degree": "Discipline dello spettacolo e comunicazione", "area": "recitazione, sport, contatto con il pubblico"}
+    {"age": "24", "job_description": "lavoro part-time", "degree": "Discipline dello spettacolo e comunicazione", "area": "recitazione, sport, contatto con il pubblico"}
+    {"age": "24", "job_description": "lavoro part-time", "degree": "Discipline dello spettacolo e comunicazione", "area": "recitazione, sport, contatto con il pubblico", "past_experience": "cameriera"}
+    {"age": "24", "job_description": "lavoro part-time", "degree": "Discipline dello spettacolo e comunicazione", "area": "recitazione, sport, contatto con il pubblico", "past_experience": "cameriera"}
+    {"age": "24", "job_description": "lavoro part-time", "degree": "Discipline dello spettacolo e comunicazione", "area": "recitazione, sport, contatto con il pubblico", "past_experience": "cameriera", "location": "Pisa"}
+    {"age": "24", "job_description": "lavoro part-time", "degree": "Discipline dello spettacolo e comunicazione", "area": "recitazione, sport, contatto con il pubblico", "past_experience": "cameriera", "location": "Pisa"}
+    {"age": "24", "job_description": "lavoro part-time", "degree": "Discipline dello spettacolo e comunicazione", "area": "recitazione, sport, contatto con il pubblico", "past_experience": "cameriera", "location": "Pisa"}
+    {"age": "24", "job_description": "lavoro part-time", "degree": "Discipline dello spettacolo e comunicazione", "area": "recitazione, sport, contatto con il pubblico", "past_experience": "cameriera", "location": "Pisa"}

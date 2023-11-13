@@ -1,0 +1,5 @@
+    {"job_description": "qualsiasi", "contract": "qualsiasi"}
+    {"job_description": "pubblicità, comunicazione"}
+    {"job_description": "pubblicità, comunicazione"}
+    {"job_description": "pubblicità, comunicazione", "contract": "tirocinio post-laurea retribuito"}
+    {"job_description": "pubblicità, comunicazione", "contract": "tirocinio post-laurea retribuito"}

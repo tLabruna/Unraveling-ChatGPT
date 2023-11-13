@@ -1,0 +1,10 @@
+    {"job_description": "ricercatore", "area": "informatica, robotica"}
+    {"job_description": "ricercatore", "area": "informatica, robotica"}
+    {"job_description": "ricercatore", "area": "informatica, robotica", "contract": "tempo determinato o indeterminato"}
+    {"job_description": "ricercatore", "area": "informatica, robotica", "contract": "tempo determinato o indeterminato", "degree": "dottorato in Ingegneria Robotica"}
+    {"job_description": "ricercatore", "area": "informatica, robotica", "contract": "tempo determinato o indeterminato", "degree": "dottorato in Ingegneria Robotica", "skills": "C++, java, PhP"}
+    {"job_description": "ricercatore", "area": "informatica, robotica", "contract": "tempo determinato o indeterminato", "degree": "dottorato in Ingegneria Robotica", "skills": "C++, java, PhP", "past_experience": "nessuna esperienza in azienda, solo accademica"}
+    {"job_description": "ricercatore", "area": "informatica, robotica", "contract": "tempo determinato o indeterminato", "degree": "dottorato in Ingegneria Robotica", "skills": "C++, java, PhP", "past_experience": "nessuna esperienza in azienda, solo accademica"}
+    {"job_description": "ricercatore", "area": "informatica, robotica", "contract": "tempo determinato o indeterminato", "degree": "dottorato in Ingegneria Robotica", "skills": "C++, java, PhP", "past_experience": "nessuna esperienza in azienda, solo accademica"}
+    {"job_description": "ricercatore", "area": "informatica, robotica", "contract": "tempo determinato o indeterminato", "degree": "dottorato in Ingegneria Robotica", "skills": "C++, java, PhP", "past_experience": "nessuna esperienza in azienda, solo accademica"}
+    {"job_description": "ricercatore", "area": "informatica, robotica", "contract": "tempo determinato o indeterminato", "degree": "dottorato in Ingegneria Robotica", "skills": "C++, java, PhP", "past_experience": "nessuna esperienza in azienda, solo accademica"}

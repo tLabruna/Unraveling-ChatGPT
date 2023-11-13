@@ -1,0 +1,6 @@
+    {"job_description": "informatico, robotica", "skills": "C++, PHP, Java", "past_experience": "ricercatore"}
+    {"job_description": "informatico, robotica", "skills": "C++, PHP, Java", "past_experience": "ricercatore", "location": "Italia"}
+    {"job_description": "informatico, robotica", "skills": "C++, PHP, Java", "past_experience": "ricercatore", "location": "Italia", "skills": "disponibile a spostarsi all'estero"}
+    {"job_description": "informatico, robotica", "skills": "C++, PHP, Java", "past_experience": "ricercatore", "location": "Italia", "skills": "disponibile a spostarsi all'estero"}
+    {"job_description": "informatico, robotica", "skills": "C++, PHP, Java", "past_experience": "ricercatore", "location": "Italia", "skills": "disponibile a spostarsi all'estero", "past_experience": "Golang, Docker, Google AdWords"}
+    {"job_description": "informatico, robotica", "skills": "C++, PHP, Java", "past_experience": "ricercatore", "location": "Italia", "skills": "disponibile a spostarsi all'estero", "past_experience": "Golang, Docker, Google AdWords"}
